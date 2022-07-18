@@ -1,0 +1,27 @@
+main () {
+    var winning applications= [
+        'FNB banking app-2012',
+        'Snapscan-2013',
+        'LIVE Inspect-2014',
+        'Wumdrop-2015',
+        'Domestly-2016',
+        'Standard Banking Shyft App-2017',
+        'Khula Ecosystem-2018',
+        'Naked Insurance App-2019',
+        'Easy Equities-2020',
+        'Ambani Africa-2021'
+    ];
+
+    print(winning applications);
+
+    var year6and7= [
+        'Standard Bank Shyft App-2017',
+        'Khula Ecosystem-2018'
+    ];
+    
+    print (year6and7);
+
+var years= ['10 years'];
+
+print( years);
+}

@@ -1,0 +1,22 @@
+void main() {
+
+    var muk=new Developer();
+
+    muk.application="Ambani Africa";
+    muk.category="Overall Winner";
+    muk.developer="Mukundi Lambani";
+    muk.year=2021;
+
+
+    print(muk.application);
+    print(muk.category);
+    print(muk.developer);
+    print(muk.year);
+}
+
+class Developer {
+    String? application;
+    String? category;
+    String? developer;
+    int? year;
+}
